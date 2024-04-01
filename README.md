@@ -34,7 +34,7 @@ Find your pack here and click the link accordingly, every link directly goes to 
 - SketchClientForceCoordsExtensionV2: https://www.mediafire.com/file/45j3y5pvwtvs91s/SketchClientForceCoordsExtensionV2.mcpack/file
 - Origins Addon: https://www.mcpedl.com/origins-addon/
 - Discord Theme Pack: https://www.mcpedl.com/discord-theme-pack/
-- Diaubs Combat UI Pack: https://www.mcpedl.com/diaubs-combat-ui-pack/ (Note: This title is repeated, indicating the same link or content)
+- Diaubs Combat UI Pack: https://www.mcpedl.com/diaubs-combat-ui-pack/
 - Galaxy UI Pack: https://www.mcpedl.com/galaxy-ui-pack/
 - Beacon Play UI Pack: https://www.mcpedl.com/beaconplay-ui-pack/
 - Cyberline GUI: https://www.mcpedl.com/cyberline-gui/
