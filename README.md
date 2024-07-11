@@ -52,3 +52,11 @@ Find your pack here and click the link accordingly, every link directly goes to 
 - Dmod Resource Pack: https://mcpedl.com/dmod-resource-pack/
 - Turtle Client: https://turtleclient.xyz/
 - MCPE Cosmetics: https://discord.gg/KUCMJYfh77
+- Star's FPS Counter: https://mcpedl.com/star-fps-counter/#downloads
+- BlueRaven Fps Edition: https://mcpedl.com/blueraven-fps-edition/#downloads
+- Bedrocktimize (Quick & Organized Settings + FPS Options): https://mcpedl.com/quick-settings-addon/
+- Particle + Flipbook Disabler (FPS Boost): https://mcpedl.com/particle-disabler-fps-boost/
+- AD FPS BOOSTER: https://mcpedl.com/adfpsbooster/
+- Better Fps: https://mcpedl.com/fps-2/
+- Optimize FPS v2.8 (1.17-1.18.12): https://mcpedl.com/optimize-minecraft-bedrock-fog-remover/
+- Endd's Sodium v1.0.1: https://mcpedl.com/endds-sodium-ui-pack/
