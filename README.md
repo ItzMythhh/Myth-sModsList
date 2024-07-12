@@ -60,3 +60,10 @@ Find your pack here and click the link accordingly, every link directly goes to 
 - Better Fps: https://mcpedl.com/fps-2/
 - Optimize FPS v2.8 (1.17-1.18.12): https://mcpedl.com/optimize-minecraft-bedrock-fog-remover/
 - Endd's Sodium v1.0.1: https://mcpedl.com/endds-sodium-ui-pack/
+- Kriptifine lag optimizer: https://mcpedl.com/kriptifine-lag-optimizer-compatible-with-renderdragon/
+- PerFormance+ Q1: https://mcpedl.com/performance-plus/
+- Alpha's Optimizer V5: https://mcpedl.com/alpha-optimizer-pack/
+- OPTIMIZER + FPS BOOSTER + PVP + LAG REMOVE TEXTURE PACK BY AZ OFFICIAL: https://mcpedl.com/optimizer-fps-booster-pvp-lag-remove-texture-pack-by-az-official/
+- No lag mcpe: https://mcpedl.com/no-lag-client/
+- FullGrass / All Sides Grass V2 Pack: https://mcpedl.com/full-grass-pack-all-sides-grass-pack/
+- Less Lag Texture Pack: https://mcpedl.com/less-lag-texture-pack/
